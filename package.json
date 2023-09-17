@@ -1,0 +1,16 @@
+{
+  "name": "learning-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript", "typescript", "exercise"],
+  "author": "kelvur",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.17.17",
+    "tsup": "^7.2.0"
+  }
+}
